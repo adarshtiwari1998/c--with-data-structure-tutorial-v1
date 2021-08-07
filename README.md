@@ -20,3 +20,4 @@
 
 > 🛑Lecture 3.1: Jumbs in Loops | Break and Continue Statement | 📅 08/07/2021 19:24.
 
+> 🛑Lecture 3.1.1: Jumbs in Loops | Program to print numbers from 1 to 100, and if any number is divisible by 3, so those number are not print on output📅 08/07/2021 20:02.
