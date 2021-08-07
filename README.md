@@ -9,3 +9,5 @@
 > 🛑Lecture 2.3: if/else statement | 📅 08/07/2021 15:09.
 
 > 🛑Lecture 2.3.1: Find the Maximum of three given numbers. | 📅 08/07/2021 15:53.
+
+> 🛑Lecture 2.3.2: Find the Given Numbers is Odd or Even | 📅 08/07/2021 16:14.
