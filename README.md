@@ -6,4 +6,6 @@
 
 > 🛑Lecture 2.2: Input Output in C++ | 📅 08/07/2021 13:29.
 
- 🛑Lecture 2.3: if/else statement | 📅 08/07/2021 15:09.
+> 🛑Lecture 2.3: if/else statement | 📅 08/07/2021 15:09.
+
+ 🛑Lecture 2.3.1: Find the Maximum of three given numbers. | 📅 08/07/2021 15:53.
