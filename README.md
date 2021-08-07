@@ -13,3 +13,5 @@
 > 🛑Lecture 2.3.2: Find the Given Numbers is Odd or Even | 📅 08/07/2021 16:14.
 
 > 🛑Lecture 2.4: Loops in C++ | 📅 08/07/2021 16:25.
+
+> 🛑Lecture 2.4.1: While Loops C++ | 📅 08/07/2021 16:49.
