@@ -11,3 +11,5 @@
 > 🛑Lecture 2.3.1: Find the Maximum of three given numbers. | 📅 08/07/2021 15:53.
 
 > 🛑Lecture 2.3.2: Find the Given Numbers is Odd or Even | 📅 08/07/2021 16:14.
+
+> 🛑Lecture 2.4: Loops in C++ | 📅 08/07/2021 16:25.
