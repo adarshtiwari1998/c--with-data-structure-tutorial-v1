@@ -18,3 +18,5 @@
 
 > 🛑Lecture 2.4.2: Do While Loops C++ | 📅 08/07/2021 17:07.
 
+> 🛑Lecture 3.1: Jumbs in Loops | Break and Continue Statement | 📅 08/07/2021 19:24.
+
