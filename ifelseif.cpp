@@ -1,5 +1,5 @@
 
-//2.3 Program to take input from user to go shopping with her friends depned on the how much saving we have?
+//2.3: Program to take input from user to go shopping with her friends depned on the how much saving we have?
 #include <iostream>
 using namespace std;
 
