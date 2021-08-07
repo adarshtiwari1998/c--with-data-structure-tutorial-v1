@@ -25,6 +25,8 @@ int main() {
 10   print number as user given
 12   user input (+ve number)
 12   print number as user given
+86   user input (+ve number)
+86   print number as user given
 -78  user input(-ve number)
       loop terminated
 
