@@ -21,3 +21,5 @@
 > 🛑Lecture 3.1: Jumbs in Loops | Break and Continue Statement | 📅 08/07/2021 19:24.
 
 > 🛑Lecture 3.1.1: Jumbs in Loops | Program to print numbers from 1 to 100, and if any number is divisible by 3, so those number are not print on output |📅 08/07/2021 20:02.
+
+> 🛑Lecture 3.1.2: Jumbs in Loops | Check if a given number is prime or not |📅 08/07/2021 20:12.
