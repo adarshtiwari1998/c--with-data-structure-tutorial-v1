@@ -32,6 +32,8 @@
 
 > 🛑Lecture 3.3: Operators in C++ 📅 08/08/2021  13:19.
 
+> 🛑Lecture 4.1: Pattern Question-1 in C++ 📅 08/08/2021  19:28.
+
 
 
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
