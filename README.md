@@ -25,3 +25,5 @@
 > 🛑Lecture 3.1.2: Jumbs in Loops | Check if a given number is prime or not |📅 08/08/2021 11:40.
 
 > 🛑Lecture 3.1.3: Jumbs in Loops | Print all prime numbers between a and b |📅 08/08/2021  12:05.
+
+> 🛑Lecture 3.2: Switch Case Statement |📅 08/08/2021  12:30.
