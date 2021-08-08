@@ -40,6 +40,8 @@
 
 > 🛑Lecture 4.1.4: Pattern Question-4 --> Half Pyramid After 180* degree Rotation in C++ 📅 08/08/2021  23:25.
 
+> 🛑Lecture 4.1.5: Pattern Question-5 --> Half Pyramid using Numbers in C++ 📅 08/08/2021  23:42.
+
 
 
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
