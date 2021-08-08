@@ -34,6 +34,8 @@
 
 > 🛑Lecture 4.1: Pattern Question-1 in C++ 📅 08/08/2021  19:28.
 
+> 🛑Lecture 4.1.2: Pattern Question-2 --> Hollow Rectangle Pattern in C++ 📅 08/08/2021  22:52.
+
 
 
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
