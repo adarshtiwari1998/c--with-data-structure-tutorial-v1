@@ -46,6 +46,8 @@
 
 > 🛑Lecture 4.1.7: Pattern Question-7 --> Butterfly Pattern Question in C++ 📅 08/09/2021  00:11.
 
+> 🛑Lecture 4.2: Advanced Pattern Question-8 --> Inverted Pattern in C++ 📅 08/09/2021  01:19.
+
 
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
 
