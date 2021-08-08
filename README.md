@@ -45,7 +45,6 @@
 > 🛑Lecture 4.1.6: Pattern Question-6 --> Floyd's Traingle Pattern Question in C++ 📅 08/08/2021  23:54.
 
 
-
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
 
 
