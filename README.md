@@ -36,6 +36,8 @@
 
 > 🛑Lecture 4.1.2: Pattern Question-2 --> Hollow Rectangle Pattern in C++ 📅 08/08/2021  22:52.
 
+> 🛑Lecture 4.1.3: Pattern Question-3 --> Inverted Half Pyramid in C++ 📅 08/08/2021  23:05.
+
 
 
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
