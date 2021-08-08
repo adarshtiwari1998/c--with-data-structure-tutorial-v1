@@ -22,4 +22,6 @@
 
 > 🛑Lecture 3.1.1: Jumbs in Loops | Program to print numbers from 1 to 100, and if any number is divisible by 3, so those number are not print on output |📅 08/07/2021 20:02.
 
-> 🛑Lecture 3.1.2: Jumbs in Loops | Check if a given number is prime or not |📅 08/07/2021 20:12.
+> 🛑Lecture 3.1.2: Jumbs in Loops | Check if a given number is prime or not |📅 08/08/2021 11:40.
+
+> 🛑Lecture 3.1.3: Jumbs in Loops | Print all prime numbers between a and b |📅 08/08/2021  12:05.
