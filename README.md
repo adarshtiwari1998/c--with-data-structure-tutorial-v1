@@ -50,6 +50,8 @@
 
 > 🛑Lecture 4.2.1: Advanced Pattern Question-9 --> 0-1 Pattern Question in C++ 📅 08/09/2021  01:43.
 
+> 🛑Lecture 4.2.2: Advanced Pattern Question-10 --> Rhombus Pattern Question in C++ 📅 08/09/2021  13:14.
+
 
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
 
