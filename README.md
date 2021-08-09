@@ -54,6 +54,8 @@
 
 > 🛑Lecture 4.2.3: Advanced Pattern Question-11 --> Number Pattern Question in C++ 📅 08/09/2021  13:56.
 
+> 🛑Lecture 4.2.4: Advanced Pattern Question-12 --> Palindromic Pattern Question in C++ 📅 08/09/2021  14:14.
+
 
 
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
