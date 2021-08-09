@@ -60,6 +60,8 @@
 
 > 🛑Lecture 4.2.6: Advanced Pattern Question-14 --> Zig Zag Pattern Question in C++ 📅 08/09/2021  15:19.
 
+> 🛑Lecture 5.1: Binary Number System in C++ | 📅 08/09/2021  17:31.
+
 
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
 
