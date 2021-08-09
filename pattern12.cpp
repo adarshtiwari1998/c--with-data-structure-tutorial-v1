@@ -14,7 +14,7 @@ Suppose n=6,
 Row: 1 to n;
 columns: There is  3 part 
 For space: " " 1 to n- Row_No;
-for number in decresing order: variable k = row no k--   -->formula  (n-Row No to n) 
+for number in decresing order: variable k = row no k--   -->formula  (1 to n- Row_No) 
 for number in incresing order   k=2; k++      -->formula    (n to+Row No -1)
 */
 
