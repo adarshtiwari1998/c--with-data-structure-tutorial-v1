@@ -62,6 +62,8 @@
 
 > 🛑Lecture 5.1: Binary Number System in C++ | 📅 08/09/2021  17:31.
 
+> 🛑Lecture 5.2: How to Reverse a number | Check if a number is Prime or Armstrong | 📅 08/09/2021  18:33.
+
 
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
 
