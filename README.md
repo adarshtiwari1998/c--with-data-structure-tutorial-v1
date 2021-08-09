@@ -58,6 +58,8 @@
 
 > 🛑Lecture 4.2.5: Advanced Pattern Question-13 --> Star Pattern Question in C++ 📅 08/09/2021  14:43.
 
+> 🛑Lecture 4.2.6: Advanced Pattern Question-14 --> Zig Zag Pattern Question in C++ 📅 08/09/2021  15:19.
+
 
 >Important URL FOR Reference: <https://www.tutorialspoint.com/cplusplus/>
 
